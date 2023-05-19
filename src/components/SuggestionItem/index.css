@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list-items-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+  list-style-type: none;
+}
+.arrow-image {
+  height: 16px;
+  width: 16px;
+}
+.arrow-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
